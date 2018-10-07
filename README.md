@@ -1,2 +1,2 @@
 # Karttunen_Assignment6
-asdasd
+Uploadasin nyt vaan kaiken muutetun koodin.
